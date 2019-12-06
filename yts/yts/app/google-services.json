@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150335950870",
+    "firebase_url": "https://yts-de-project.firebaseio.com",
+    "project_id": "yts-de-project",
+    "storage_bucket": "yts-de-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150335950870:android:c4f411760810a73c",
+        "android_client_info": {
+          "package_name": "ml.uncoded.yts.searchyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150335950870-i0grnocfqot78i4a9ooj5n5ovr9q8uhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.uncoded.yts.searchyoutube",
+            "certificate_hash": "cacc7734a29aeaa304c85cf2c4f16ce92278a57c"
+          }
+        },
+        {
+          "client_id": "150335950870-1ov04unc777le37pp5kr69ieqto1u551.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKejJuFEVDhfVgdX17zfdWicO89Pt2aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150335950870-1ov04unc777le37pp5kr69ieqto1u551.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
